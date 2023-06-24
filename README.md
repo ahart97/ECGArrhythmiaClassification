@@ -138,7 +138,6 @@ Project Organization
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   ├── documents      <- Documents for reporting the design and evalution procedure.
     │   ├── CSVs           <- CSVs for reporting.
     │   └── figures        <- Generated graphics and figures to be used in reporting.
     │
