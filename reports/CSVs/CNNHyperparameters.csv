@@ -1,0 +1,7 @@
+﻿Hyperparameter,Options,Selected
+Dropout,"[0,0.8]",0
+Optimizer,"Adam, SGD",Adam
+Learning Rate,"[0.0001, 0.01]",0.001419
+Momentum,"[0, 0.3]",N/A
+Number of Epcohs,"[50, 120]",112
+Batch Size,"64, 128, 256, 512",64

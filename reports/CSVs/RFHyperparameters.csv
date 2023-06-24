@@ -1,0 +1,5 @@
+﻿Hyperparameter,Options,Selected
+Max Depth,"[2,40]",40
+Number of Estimators,"[25, 200]",200
+Criterion,"gini, entropy, log_loss",entropy
+Max Features,"sqrt, log2",sqrt
