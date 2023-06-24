@@ -16,6 +16,13 @@ from src.data.make_dataset import LoadData
 X_raw, X, y, fs = LoadData(raw_path='Path\to\data\dir')
 ```
 
+Performance
+------------
+The performance of the trained models provided can be found in .\reports\CSVs\ *model*_scores.csv.
+
+Overall the CNN achieved a macro-F1-score of ~ 94%, and the random forest achieved a macro-F1-score of ~91%.
+
+
 Environment Setup
 ------------
 
